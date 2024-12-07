@@ -26,7 +26,6 @@ I'm a tech enthusiast and developer with a keen interest in embedded systems, Io
 ---
 
 ## 📫 Get in Touch!
-- [**GitHub**](https://github.com/fading-trail)
 - [**LinkedIn**](https://www.linkedin.com/in/sisir-lakkaraju-25810628b)
 - **Email**: sisir.lakkaraju2023@vitstudent.ac.in
 
